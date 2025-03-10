@@ -23,4 +23,4 @@ Vrinda store wants to create an annual sales report for 2025. So that, Vrinda ca
 - Created Pivot tables according to the Questions asked. 
 - Merged all pivot tables into one Dashboard and applied slicer to make it dynamic.
 
-- Dashboard Interaction <a href="https://github.com/Peanut4Butter3Sandwich/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Annual%20Report%202025.jpg">View Dashboard</a>
+Dashboard Interaction <a href="https://github.com/Peanut4Butter3Sandwich/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Annual%20Report%202025.jpg">Dashboard</a>
