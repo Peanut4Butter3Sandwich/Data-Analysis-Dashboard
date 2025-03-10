@@ -16,6 +16,7 @@ Vrinda store wants to create an annual sales report for 2025. So that, Vrinda ca
 - Which channel in contributing to maximum sales? 
 - Highest selling category? 
 - Percentage of total orders delivered
+
 <a href="https://github.com/Peanut4Butter3Sandwich/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Annual%20Report%202025.jpg">Dashboard</a>
 
 ## Process 
